@@ -23,7 +23,7 @@ FILE_NAME: str = "Enrollments.csv"
 student_first_name: str = ''  # Holds the first name of a student entered by the user.
 student_last_name: str = ''  # Holds the last name of a student entered by the user.
 course_name: str = ''  # Holds the name of a course entered by the user.
-parts: list[str] = []  # Holds the
+parts: list[str] = []  # Holds the parts return from split
 # list of student data
 student_data: dict[str, str] = {}  # one row of student data in a dictionary
 students: list[dict[str, str]] = []  # a table of student data.
