@@ -1,2 +1,2 @@
-# IntroToProg-Python
-This Rep. will be used for reviewing assignment files
+# Prog-Python
+Rep. will be used for reviewing the files
